@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Ehsan Ahmadi</title>
+    <link>https://ahmadiehsan.github.io/en/portfolio/</link>
+    <description>Recent content in Projects on Ehsan Ahmadi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ahmadiehsan.github.io/en/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DarsUp</title>
+      <link>https://ahmadiehsan.github.io/en/portfolio/darsup/</link>
+      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ahmadiehsan.github.io/en/portfolio/darsup/</guid>
+      <description>DarsUp is a new generation of universities. In today’s busy world you cannot always adjust your schedule to pursue a full time education. Online learning enables you to study for an internationally recognised qualification without making your life hard. Whether you are a graduated person wanting to start your career without sacrificing your education or a busy professional looking for the next career step, online study is the best solution for you.</description>
+    </item>
+    
+  </channel>
+</rss>

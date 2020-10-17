@@ -1,30 +1,66 @@
 baseURL: "https://ahmadiehsan.github.io/"
-languageCode: "en-us"
-title: "Ehsan Ahmadi"
 theme: "hyde-hyde"
 publishDir: "docs"
 
-menus:
-  main:
-    - name: "Posts"
-      url: "/posts/"
-      weight: 100
-      identifier: "posts"
-    - name: "Portfolio"
-      weight: 150
-      url: "/portfolio/"
-      identifier: "portfolio"
+DefaultContentLanguage: fa
+languages:
+  fa:
+    languageCode: "fa-ir"
+    languageName: "فا"
+    title: "احسان احمدی"
+    languagedirection: rtl
+    layoutReverse: true
+    weight: 2
+    menus:
+      main:
+      - name: "نمونه کار ها"
+        weight: 150
+        url: "/portfolio/"
+        identifier: "portfolio"
+      - name: "درباره من"
+        weight: 200
+        url: "/about/"
+        identifier: "about"
+      - name: "تماس با من"
+        weight: 250
+        url: "/contact/"
+        identifier: "contact"
+    params:
+      author: "احسان احمدی"
+      title: "وبلاگ شخصی احسان احمدی"
+      description: "برنامه نویس ارشد سمت سرور\n935 5008 0937"
+  en:
+    languageCode: "en-us"
+    languageName: "en"
+    title: "Ehsan Ahmadi"
+    weight: 1
+    menus:
+      main:
+      - name: "Portfolio"
+        weight: 150
+        url: "/portfolio/"
+        identifier: "portfolio"
+      - name: "About Me"
+        weight: 200
+        url: "/about/"
+        identifier: "about"
+      - name: "Contact Me"
+        weight: 250
+        url: "/contact/"
+        identifier: "contact"
+    params:
+      author: "Ehsan Ahmadi"
+      title: "Ehsan Ahmadi Personal Blog"
+      description: "Senior Backend Developer\n1374ea@gmail.com"
 
 params:
-  author: "Ehsan Ahmadi"
-  title: "Ehsan Ahmadi Personal Blog"
   authorimage: "/img/ehsan_ahmadi.jpeg"
-  since: "2014"
-  copyright: "| Ahmadi"
-  description: "Senior Backend Developer"
   mainSections: "posts"
   highlightjs: true
   highlightjsstyle: "github"
+  postNavigation: false
+  since: "2019"
+  copyright: "| Ahmadi"
   social:
     github: "ahmadiehsan"
     linkedin: "ahmadi-ehsan"

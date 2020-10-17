@@ -1,3 +1,100 @@
-.site__title {
-    font-size: 2rem !important;
+@import "iransans.css";
+
+body, h1, h2, h3, h4, h5, h6 {
+  font-family: IRANSans !important;
 }
+
+hr {
+    border: 0;
+    border-top: 1px solid #d3d3d3;
+    margin: 50px 0;
+}
+
+
+h2 {
+	margin-top: 55px
+}
+
+h3 {
+	margin-top: 45px
+}
+
+.site__title {
+    font-size: 1.5rem !important;
+    display: block;
+    margin-bottom: 30px;
+}
+
+.site__description {
+    font-size: 1.1rem !important;
+}
+
+
+
+/*
+ * RTL support
+ */
+html[lang=fa-ir] {
+	direction: rtl;
+}
+
+html[lang=fa-ir] body {
+	background: #fcfcfc;
+}
+
+html[lang=fa-ir] h1 {
+    font-size: 1.85rem;
+}
+
+html[lang=fa-ir] h2 {
+    font-size: 1.4rem;
+}
+
+html[lang=fa-ir] h3 {
+    font-size: 1.35rem;
+}
+
+html[lang=fa-ir] .layout-reverse .sidebar {
+    direction: ltr;
+}
+
+html[lang=fa-ir] .project__summary,
+html[lang=fa-ir] th {
+	text-align: right;
+}
+
+
+html[lang=fa-ir] .content article header,
+html[lang=fa-ir] .section__title {
+    display: block;
+    border-bottom: 1px solid #d3d3d3;
+    padding-bottom: 20px;
+}
+
+html[lang=fa-ir] .section__title {
+    font-size: 1.85rem;
+    margin: 40px 0 50px;
+    padding-bottom: 40px;
+}
+
+
+@media (min-width: 768px) {
+	html[lang=fa-ir] .layout-reverse .content {
+		margin-left: 2rem;
+		margin-right: 20rem;
+	}
+}
+
+@media (min-width: 992px) {
+	html[lang=fa-ir] .layout-reverse .content {
+		margin-left: 4rem;
+		margin-right: 20rem;
+	}
+
+	html[lang=fa-ir] .content {
+		max-width: 55rem;
+	}
+}
+/*
+ * end RTL support
+ */

@@ -1,33 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ehsan Ahmadi</title>
+    <title>احسان احمدی</title>
     <link>https://ahmadiehsan.github.io/</link>
-    <description>Recent content on Ehsan Ahmadi</description>
+    <description>Recent content on احسان احمدی</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 17 Oct 2020 14:11:13 +0330</lastBuildDate>
+    <language>fa-ir</language>
+    <lastBuildDate>Sat, 17 Oct 2020 18:05:08 +0330</lastBuildDate>
     
 	<atom:link href="https://ahmadiehsan.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello World</title>
-      <link>https://ahmadiehsan.github.io/posts/hello_world/</link>
-      <pubDate>Sat, 17 Oct 2020 14:11:13 +0330</pubDate>
+      <title>تماس با من</title>
+      <link>https://ahmadiehsan.github.io/contact/</link>
+      <pubDate>Sat, 17 Oct 2020 18:05:08 +0330</pubDate>
       
-      <guid>https://ahmadiehsan.github.io/posts/hello_world/</guid>
-      <description>Hello!
-My first post is here :)</description>
+      <guid>https://ahmadiehsan.github.io/contact/</guid>
+      <description>من از طریق راه‌های زیر در دسترس هستم
+ شماره همراه: 935 5008 0937 ایمیل: 1374ea@gmail.com  </description>
     </item>
     
     <item>
-      <title>DarsUp</title>
+      <title>درباره من</title>
+      <link>https://ahmadiehsan.github.io/about/</link>
+      <pubDate>Sat, 17 Oct 2020 18:05:08 +0330</pubDate>
+      
+      <guid>https://ahmadiehsan.github.io/about/</guid>
+      <description>مهارت‌های تخصصی    نام سطح     Python    Django    Go    JavaScript    React js     دیگر مهارت‌ها  لینوکس: Debian - Ubuntu دیتابیس: PostgreSQL - MySQL - MongoDB - ElasticSearch - Redis دیگر موارد: RESTful WebServices - Bottle - Angular - Git - ORM - MVVM  زبان‌ها  فارسی (زبان مادری) انگلیسی (مسلط به خواندن و نوشتن)  جهت مشاهده نمونه کارها اینجا کلیک کنید</description>
+    </item>
+    
+    <item>
+      <title>درس‌آپ</title>
       <link>https://ahmadiehsan.github.io/portfolio/darsup/</link>
       <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>https://ahmadiehsan.github.io/portfolio/darsup/</guid>
-      <description>DarsUp is a new generation of universities. In today’s busy world you cannot always adjust your schedule to pursue a full time education. Online learning enables you to study for an internationally recognised qualification without making your life hard. Whether you are a graduated person wanting to start your career without sacrificing your education or a busy professional looking for the next career step, online study is the best solution for you.</description>
+      <description></description>
     </item>
     
   </channel>
