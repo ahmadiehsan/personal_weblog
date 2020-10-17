@@ -16,10 +16,11 @@ menus:
       identifier: "portfolio"
 
 params:
-  author: "2"
-  title: "1"
+  author: "Ehsan Ahmadi"
+  title: "Ehsan Ahmadi Personal Blog"
   authorimage: "/img/ehsan_ahmadi.jpeg"
   since: "2014"
+  copyright: "| Ahmadi"
   description: "Senior Backend Developer"
   mainSections: "posts"
   highlightjs: true
