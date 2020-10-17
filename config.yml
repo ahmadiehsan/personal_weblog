@@ -1,0 +1,31 @@
+baseURL: "https://ahmadiehsan.github.io/"
+languageCode: "en-us"
+title: "Ehsan Ahmadi"
+theme: "hyde-hyde"
+publishDir: "docs"
+
+menus:
+  main:
+    - name: "Posts"
+      url: "/posts/"
+      weight: 100
+      identifier: "posts"
+    - name: "Portfolio"
+      weight: 150
+      url: "/portfolio/"
+      identifier: "portfolio"
+
+params:
+  author: "2"
+  title: "1"
+  authorimage: "/img/ehsan_ahmadi.jpeg"
+  since: "2014"
+  description: "Senior Backend Developer"
+  mainSections: "posts"
+  highlightjs: true
+  highlightjsstyle: "github"
+  social:
+    github: "ahmadiehsan"
+    linkedin: "ahmadi-ehsan"
+    telegram: "ahmadi_ehsan"
+

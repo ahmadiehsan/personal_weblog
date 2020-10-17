@@ -1,25 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ehsan Ahmadi</title>
-    <link>https://ahmadiehsan.github.io/</link>
-    <description>Recent content on Ehsan Ahmadi</description>
+    <title>Projects on Ehsan Ahmadi</title>
+    <link>https://ahmadiehsan.github.io/portfolio/</link>
+    <description>Recent content in Projects on Ehsan Ahmadi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Oct 2020 14:11:13 +0330</lastBuildDate>
+    <lastBuildDate>Mon, 02 Apr 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://ahmadiehsan.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ahmadiehsan.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Hello World</title>
-      <link>https://ahmadiehsan.github.io/posts/hello_world/</link>
-      <pubDate>Sat, 17 Oct 2020 14:11:13 +0330</pubDate>
-      
-      <guid>https://ahmadiehsan.github.io/posts/hello_world/</guid>
-      <description>Hello!
-My first post is here :)</description>
-    </item>
     
     <item>
       <title>DarsUp</title>

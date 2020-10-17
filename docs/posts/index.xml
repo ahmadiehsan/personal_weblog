@@ -12,12 +12,13 @@
     
     
     <item>
-      <title>My First Post</title>
-      <link>https://ahmadiehsan.github.io/posts/my-first-post/</link>
+      <title>Hello World</title>
+      <link>https://ahmadiehsan.github.io/posts/hello_world/</link>
       <pubDate>Sat, 17 Oct 2020 14:11:13 +0330</pubDate>
       
-      <guid>https://ahmadiehsan.github.io/posts/my-first-post/</guid>
-      <description></description>
+      <guid>https://ahmadiehsan.github.io/posts/hello_world/</guid>
+      <description>Hello!
+My first post is here :)</description>
     </item>
     
   </channel>

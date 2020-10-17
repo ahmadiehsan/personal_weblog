@@ -1,5 +1,0 @@
-baseURL = "https://ahmadiehsan.github.io/"
-languageCode = "en-us"
-title = "Ehsan Ahmadi"
-theme = "hyde-hyde"
-publishDir = "docs"
