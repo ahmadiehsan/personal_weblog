@@ -28,7 +28,7 @@ languages:
     params:
       author: "احسان احمدی"
       title: "وبلاگ شخصی احسان احمدی"
-      description: "برنامه نویس ارشد سمت سرور\n935 5008 0937"
+      description: "سرپرست فنی\n09375008935"
   en:
     languageCode: "en-us"
     languageName: "en"
@@ -51,7 +51,7 @@ languages:
     params:
       author: "Ehsan Ahmadi"
       title: "Ehsan Ahmadi Personal Blog"
-      description: "Senior Backend Developer\n1374ea@gmail.com"
+      description: "Software Technical Lead\n1374ea@gmail.com"
 
 params:
   authorimage: "/img/ehsan_ahmadi.jpeg"
