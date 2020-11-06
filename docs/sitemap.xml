@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	
-	<sitemap>
-	   	<loc>https://ahmadiehsan.github.io/en/sitemap.xml</loc>
-		
-	   	<lastmod>2020-10-17T18:05:08+03:30</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>https://ahmadiehsan.github.io/fa/sitemap.xml</loc>
-		
-	   	<lastmod>2020-10-17T18:05:08+03:30</lastmod>
-		
-	</sitemap>
-	
+  
+  <sitemap>
+    <loc>https://ahmadiehsan.github.io/en/sitemap.xml</loc>
+    
+      <lastmod>2020-10-17T14:11:13+03:30</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://ahmadiehsan.github.io/fa/sitemap.xml</loc>
+    
+      <lastmod>2018-04-02T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
 </sitemapindex>

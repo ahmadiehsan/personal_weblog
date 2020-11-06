@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ehsan Ahmadi</title>
@@ -6,11 +6,7 @@
     <description>Recent content on Ehsan Ahmadi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Oct 2020 18:05:08 +0330</lastBuildDate>
-    
-	<atom:link href="https://ahmadiehsan.github.io/en/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 17 Oct 2020 14:11:13 +0330</lastBuildDate><atom:link href="https://ahmadiehsan.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
       <link>https://ahmadiehsan.github.io/en/about/</link>
@@ -26,7 +22,7 @@
       <pubDate>Sat, 17 Oct 2020 18:05:08 +0330</pubDate>
       
       <guid>https://ahmadiehsan.github.io/en/contact/</guid>
-      <description>I am available 24&amp;frasl;7
+      <description>I am available 24/7
  Phone Number: (+98) 937 500 8935 Email: 1374ea@gmail.com  </description>
     </item>
     

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>احسان احمدی</title>
@@ -6,11 +6,7 @@
     <description>Recent content on احسان احمدی</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fa-ir</language>
-    <lastBuildDate>Sat, 17 Oct 2020 18:05:08 +0330</lastBuildDate>
-    
-	<atom:link href="https://ahmadiehsan.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 02 Apr 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://ahmadiehsan.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>تماس با من</title>
       <link>https://ahmadiehsan.github.io/contact/</link>
@@ -27,7 +23,7 @@
       <pubDate>Sat, 17 Oct 2020 18:05:08 +0330</pubDate>
       
       <guid>https://ahmadiehsan.github.io/about/</guid>
-      <description>مهارت‌های تخصصی    نام سطح     Python    Django    Go    JavaScript    React js     دیگر مهارت‌ها  لینوکس: Debian - Ubuntu دیتابیس: PostgreSQL - MySQL - MongoDB - ElasticSearch - Redis دیگر موارد: RESTful WebServices - Bottle - Angular - Git - ORM - MVVM  زبان‌ها  فارسی (زبان مادری) انگلیسی (مسلط به خواندن و نوشتن)  جهت مشاهده نمونه کارها اینجا کلیک کنید</description>
+      <description>مهارت‌های تخصصی    نام سطح     Python    Django    Go    JavaScript    React js     دیگر مهارت‌ها  لینوکس: Debian - Ubuntu دیتابیس: PostgreSQL - MySQL - MongoDB - ElasticSearch - Redis دیگر موارد: RESTful WebServices - Bottle - Angular - Git - ORM - MVVM  زبان‌ها  فارسی (زبان مادری) انگلیسی (مسلط به خواندن و شنیدن)   جهت مشاهده نمونه کارها اینجا کلیک کنید</description>
     </item>
     
     <item>
