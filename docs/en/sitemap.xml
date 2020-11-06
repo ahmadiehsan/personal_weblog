@@ -3,21 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ahmadiehsan.github.io/en/contact/</loc>
-    <lastmod>2020-10-17T18:05:08+03:30</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://ahmadiehsan.github.io/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ahmadiehsan.github.io/en/contact/"
-                />
-  </url>
-  
-  <url>
     <loc>https://ahmadiehsan.github.io/en/</loc>
     <lastmod>2020-10-17T14:11:13+03:30</lastmod>
     <xhtml:link
@@ -83,6 +68,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://ahmadiehsan.github.io/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ahmadiehsan.github.io/en/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://ahmadiehsan.github.io/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ahmadiehsan.github.io/en/contact/"
                 />
   </url>
   
