@@ -13,15 +13,15 @@ languages:
     weight: 2
     menus:
       main:
-      - name: "نمونه کار ها"
+      - name: "نمونه کارها"
         weight: 150
         url: "/portfolio/"
         identifier: "portfolio"
-      - name: "درباره من"
+      - name: "درباره بنده"
         weight: 200
         url: "/about/"
         identifier: "about"
-      - name: "تماس با من"
+      - name: "تماس با بنده"
         weight: 250
         url: "/contact/"
         identifier: "contact"
