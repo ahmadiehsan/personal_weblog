@@ -13,14 +13,10 @@ languages:
     weight: 2
     menus:
       main:
-      - name: "نمونه کارها"
-        weight: 150
-        url: "/portfolio/"
-        identifier: "portfolio"
-      - name: "درباره بنده"
+      - name: "رزومه بنده"
         weight: 200
-        url: "/about/"
-        identifier: "about"
+        url: "/resume/"
+        identifier: "resume"
       - name: "تماس با بنده"
         weight: 250
         url: "/contact/"
@@ -36,14 +32,10 @@ languages:
     weight: 1
     menus:
       main:
-      - name: "Portfolio"
-        weight: 150
-        url: "/portfolio/"
-        identifier: "portfolio"
-      - name: "About Me"
+      - name: "My Resume"
         weight: 200
-        url: "/about/"
-        identifier: "about"
+        url: "/resume/"
+        identifier: "resume"
       - name: "Contact Me"
         weight: 250
         url: "/contact/"

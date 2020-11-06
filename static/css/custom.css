@@ -1,7 +1,7 @@
 @import "iransans.css";
 
 body, h1, h2, h3, h4, h5, h6 {
-  font-family: IRANSans !important;
+    font-family: IRANSans !important;
 }
 
 hr {
@@ -12,11 +12,11 @@ hr {
 
 
 h2 {
-	margin-top: 55px
+    margin-top: 55px
 }
 
 h3 {
-	margin-top: 45px
+    margin-top: 45px
 }
 
 .site__title {
@@ -29,17 +29,28 @@ h3 {
     font-size: 1.1rem !important;
 }
 
+li p:last-child {
+    margin: 0 0 25px !important;
+}
+
+li p {
+    margin: 0 0 5px !important;
+}
+
+.post__meta br:first-child {
+    display: none;
+}
 
 
 /*
  * RTL support
  */
 html[lang=fa-ir] {
-	direction: rtl;
+    direction: rtl;
 }
 
 html[lang=fa-ir] body {
-	background: #fcfcfc;
+    background: #fcfcfc;
 }
 
 html[lang=fa-ir] h1 {
@@ -60,7 +71,7 @@ html[lang=fa-ir] .layout-reverse .sidebar {
 
 html[lang=fa-ir] .project__summary,
 html[lang=fa-ir] th {
-	text-align: right;
+    text-align: right;
 }
 
 
@@ -79,22 +90,23 @@ html[lang=fa-ir] .section__title {
 
 
 @media (min-width: 768px) {
-	html[lang=fa-ir] .layout-reverse .content {
-		margin-left: 2rem;
-		margin-right: 20rem;
-	}
+    html[lang=fa-ir] .layout-reverse .content {
+        margin-left: 2rem;
+        margin-right: 20rem;
+    }
 }
 
 @media (min-width: 992px) {
-	html[lang=fa-ir] .layout-reverse .content {
-		margin-left: 4rem;
-		margin-right: 20rem;
-	}
+    html[lang=fa-ir] .layout-reverse .content {
+        margin-left: 4rem;
+        margin-right: 20rem;
+    }
 
-	html[lang=fa-ir] .content {
-		max-width: 55rem;
-	}
+    html[lang=fa-ir] .content {
+        max-width: 55rem;
+    }
 }
+
 /*
  * end RTL support
  */
