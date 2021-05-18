@@ -1,29 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ahmadiehsan.github.io/en/</loc>
-    <lastmod>2020-10-17T14:11:13+03:30</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://ahmadiehsan.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ahmadiehsan.github.io/en/"
-                />
-  </url>
-  
-  <url>
     <loc>https://ahmadiehsan.github.io/en/posts/hello_world/</loc>
-    <lastmod>2020-10-17T14:11:13+03:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ahmadiehsan.github.io/en/posts/</loc>
     <lastmod>2020-10-17T14:11:13+03:30</lastmod>
   </url>
   
@@ -43,22 +23,8 @@
   </url>
   
   <url>
-    <loc>https://ahmadiehsan.github.io/en/portfolio/</loc>
-    <lastmod>2018-04-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://ahmadiehsan.github.io/portfolio/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ahmadiehsan.github.io/en/portfolio/"
-                />
-  </url>
-  
-  <url>
     <loc>https://ahmadiehsan.github.io/en/categories/</loc>
+    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
@@ -86,6 +52,22 @@
   </url>
   
   <url>
+    <loc>https://ahmadiehsan.github.io/en/</loc>
+    <lastmod>2020-10-17T14:11:13+03:30</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://ahmadiehsan.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ahmadiehsan.github.io/en/"
+                />
+  </url>
+  
+  <url>
     <loc>https://ahmadiehsan.github.io/en/resume/</loc>
     <xhtml:link
                 rel="alternate"
@@ -100,7 +82,29 @@
   </url>
   
   <url>
+    <loc>https://ahmadiehsan.github.io/en/posts/</loc>
+    <lastmod>2020-10-17T14:11:13+03:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ahmadiehsan.github.io/en/portfolio/</loc>
+    <lastmod>2018-04-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://ahmadiehsan.github.io/portfolio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ahmadiehsan.github.io/en/portfolio/"
+                />
+  </url>
+  
+  <url>
     <loc>https://ahmadiehsan.github.io/en/tags/</loc>
+    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"

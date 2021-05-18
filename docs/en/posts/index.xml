@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Ehsan Ahmadi</title>
@@ -6,7 +6,11 @@
     <description>Recent content in Posts on Ehsan Ahmadi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Oct 2020 14:11:13 +0330</lastBuildDate><atom:link href="https://ahmadiehsan.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Oct 2020 14:11:13 +0330</lastBuildDate>
+    
+	<atom:link href="https://ahmadiehsan.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Hello World</title>
       <link>https://ahmadiehsan.github.io/en/posts/hello_world/</link>
