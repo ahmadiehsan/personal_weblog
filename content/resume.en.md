@@ -27,18 +27,19 @@ draft: false
 - **DDD and related concepts**: Value Obj, Tiny Type, Rich/Anemic
 - **OOP**: GRASP - SOLID
 - **Linux**: Debian - Ubuntu
-- **Database**: PostgreSQL - MySQL - MongoDB - ElasticSearch - Redis - Event Store
-- **Queue and related tools**: Rabbitmq - Mass Transit
+- **Database**: PostgreSQL - MySQL - MongoDB - Redis - Event Store
+- **Search Engine**: ElasticSearch
+- **Queue and related tools**: Rabbitmq - Pika
 - **Other**: RESTful WebServices - Flask - Git - ORM - Event base programing
 - **DevOps**: Kubernetes - Docker - Docker Compose
-
-## Languages
-
-- **Persian** (Native proficiency)
-- **English** (Full professional proficiency)
 
 ## Important projects
 
 - Technical lead of DarsUp (A Massive Open Online Course (MOOC) Platform)
 - Technical lead of Karestoon (Entrepreneurial ecosystem for Iran Radio and Television)
 - Senior software developer of NWMS (For the Ministry of Mining Industry and Trade of Iran)
+
+## Languages
+
+- **Persian** (Native proficiency)
+- **English** (Full professional proficiency)

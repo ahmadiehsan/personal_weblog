@@ -7,7 +7,7 @@ draft: false
 
 - متخصص برنامه نویسی و معماری سامانه‌های تحت وب
 - مشاور حوزه DevOps
-- علاقه‌مند به معماری‌های میکروسرویس و سرویس‌گرا
+- علاقه‌مند به سامانه‌های میکروسرویسی و onion architecture
 - Fast Learner
 - R&D man 
 
@@ -15,19 +15,24 @@ draft: false
 
 ## مهارت‌های تخصصی
 
-| نام            | سطح                     |
+| نام     | سطح             |
 | ---------- | ------------------- |
 | **Python** | ![](/img/skill_5.png) |
 | **Django** | ![](/img/skill_5.png) |
-| **Go**     | ![](/img/skill_3.png) |
+| **Team Leadership** | ![](/img/skill_3.png) |
+| **DDD** | ![](/img/skill_3.png) |
 | **JavaScript** | ![](/img/skill_4.5.png) |
 | **React js** | ![](/img/skill_4.5.png) |
 
 ## دیگر مهارت‌ها
 
+- **DDD و مفاهیم مرتبط به آن**: Value Obj, Tiny Type, Rich/Anemic
 - **لینوکس**: Debian - Ubuntu
-- **دیتابیس**: PostgreSQL - MySQL - MongoDB - ElasticSearch - Redis
-- **دیگر موارد**: RESTful WebServices - Bottle - Flask - Git - ORM - MVVM
+- **آبجکت اورینتد**: GRASP - SOLID
+- **دیتابیس**: PostgreSQL - MySQL - MongoDB - Redis - Event Store
+- **موتور جستجو**: ElasticSearch
+- **صف و ابزارهای مرتبط با آن**: Rabbitmq - Pika
+- **دیگر موارد**: RESTful WebServices - Flask - Git - ORM - Event base programing
 - **سرور و کلاستر**: Kubernetes - Docker - Docker Compose
 
 ---
@@ -56,7 +61,7 @@ draft: false
 
 ## پروژه‌ها
 
-1. **عنوان**: سرپرست فنی و طراحی معماری سامانه دانش‌بنیان درس‌آپ
+1. **عنوان**: سرپرست فنی و طراح معماری سامانه دانش‌بنیان درس‌آپ
 
     **تاریخ**: بهمن ۱۳۹۸ تا به امروز
     
@@ -68,7 +73,7 @@ draft: false
 
     **لینک**: http://app.nwms.ir 
 
-3. **عنوان**: سرپرست فنی و طراحی معماری سامانه کارستون، به سفارش شکبه یک سیما
+3. **عنوان**: سرپرست فنی و طراح معماری سامانه کارستون، به سفارش شکبه یک سیما
 
     **تاریخ**: شهریور ۱۳۹۶ تا آبان ۱۳۹۷ 
 
