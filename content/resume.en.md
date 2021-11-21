@@ -36,9 +36,10 @@ draft: false
 
 ## Experiences
 
-#### ‣ Senior Python Backend Developer (Software Technical Lead)
+###### ‣ Senior Python Backend Developer (Software Technical Lead)
 
 Dec 2019 – Present (2 yrs)
+
 Mehr-e Pars ICT
 
 - Technical lead of a scrum team with 12 members.
@@ -47,9 +48,10 @@ Mehr-e Pars ICT
 - Introduced DDD programming, architectural patterns, and code quality reviews to reduce tech debt.
 - Mentored 10 Junior Python developers, training them to work independently and acquire all adequate skills.
 
-#### ‣ Senior Python Backend Developer
+###### ‣ Senior Python Backend Developer
 
 Nov 2016 – Dec 2019 (2 yrs)
+
 Mehr-e Pars ICT
 
 - Work on national warehouse management system (base on Bottle python web framework)
@@ -57,46 +59,48 @@ Mehr-e Pars ICT
 - Implemented dev automation using Docker, GitLab CI/CD, and other tools, maintaining streamlined processes.
 - Cleared many performance bottlenecks in Mehr-e Pars projects for large-scale deployments.
 
-#### ‣ Full Stack Web Developer (Django & React.js)
+###### ‣ Full Stack Web Developer (Django & React.js)
 
 Jun 2015 – Nov 2016 (1 yr 6 mos)
+
 Mehr-e Pars ICT
 
 - Involved in the design and development of the applications using Python, React.js, HTML5, CSS3, Ajax and JSON that delivered and enabled subsequent company success.
 - Extensively utilized Django technologies, including forms, templates, and orm for communication with databases in different forms while using interceptors, validators, actions using Django frameworks.
 
-#### ‣ Freelance Developer
+###### ‣ Freelance Developer
 
 - Jul 2013 – Jan 2015 (1 yr 7 mos)
 
 ## Important projects
 
-#### ‣ DarsUp
+###### ‣ DarsUp
 
 Jan 2017 – Present
 
 - An online educational system based on the Open Edx platform. (edX is an American massive open online course (MOOC) provider created by Harvard and MIT).
-  DarsUp is a new generation of universities. In today’s busy world you cannot always adjust your schedule to pursue a full time education. Online learning enables you to study for an internationally recognised qualification without making your life hard. Whether you are a graduated person wanting to start your career without sacrificing your education or a busy professional looking for the next career step, online study is the best solution for you.
 
-#### ‣ DoreNegar
+DarsUp is a new generation of universities. In today’s busy world you cannot always adjust your schedule to pursue a full time education. Online learning enables you to study for an internationally recognised qualification without making your life hard. Whether you are a graduated person wanting to start your career without sacrificing your education or a busy professional looking for the next career step, online study is the best solution for you.
+
+###### ‣ DoreNegar
 
 Jan 2017 – Present
 
 - DoreNegar by providing powerful e-learning services based on Open EDX and additional features, make perfect educational platform without any effort for you, and will help you to concentrate only on training.
 
-#### ‣ nwms
+###### ‣ nwms
 
 Mar 2018 – Aug 2019
 
 - A project for Iranian Ministry of Industry, Mine and Trade
 
-#### ‣ Heyat TV
+###### ‣ Heyat TV
 
 Feb 2017 – Oct 2018
 
 - User-centric video sharing service
 
-#### ‣ Aghigh
+###### ‣ Aghigh
 
 May 2017 – Jun 2018
 
