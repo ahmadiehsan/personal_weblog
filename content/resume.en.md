@@ -70,7 +70,7 @@ Mehr-e Pars ICT
 
 ###### ‣ Freelance Developer
 
-- Jul 2013 – Jan 2015 (1 yr 7 mos)
+Jul 2013 – Jan 2015 (1 yr 7 mos)
 
 ## Important projects
 
