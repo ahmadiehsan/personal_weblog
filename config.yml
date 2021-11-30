@@ -13,11 +13,11 @@ languages:
     weight: 2
     menus:
       main:
-      - name: "رزومه بنده"
+      - name: "رزومه"
         weight: 200
         url: "/resume/"
         identifier: "resume"
-      - name: "تماس با بنده"
+      - name: "تماس"
         weight: 250
         url: "/contact/"
         identifier: "contact"

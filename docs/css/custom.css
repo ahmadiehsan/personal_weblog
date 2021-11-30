@@ -1,5 +1,9 @@
 @import "iransans.css";
 
+body {
+    background: #fcfcfc;
+}
+
 body, h1, h2, h3, h4, h5, h6 {
     font-family: IRANSans !important;
 }
@@ -42,15 +46,30 @@ li p {
 }
 
 
+@media (min-width: 768px) {
+    .layout-reverse .content {
+        margin-left: 2rem;
+        margin-right: 20rem;
+    }
+}
+
+@media (min-width: 992px) {
+    .layout-reverse .content {
+        margin-left: 4rem;
+        margin-right: 20rem;
+    }
+
+    .content {
+        max-width: 55rem;
+    }
+}
+
+
 /*
  * RTL support
  */
 html[lang=fa-ir] {
     direction: rtl;
-}
-
-html[lang=fa-ir] body {
-    background: #fcfcfc;
 }
 
 html[lang=fa-ir] h1 {
@@ -87,26 +106,6 @@ html[lang=fa-ir] .section__title {
     margin: 40px 0 50px;
     padding-bottom: 40px;
 }
-
-
-@media (min-width: 768px) {
-    html[lang=fa-ir] .layout-reverse .content {
-        margin-left: 2rem;
-        margin-right: 20rem;
-    }
-}
-
-@media (min-width: 992px) {
-    html[lang=fa-ir] .layout-reverse .content {
-        margin-left: 4rem;
-        margin-right: 20rem;
-    }
-
-    html[lang=fa-ir] .content {
-        max-width: 55rem;
-    }
-}
-
 /*
  * end RTL support
  */
