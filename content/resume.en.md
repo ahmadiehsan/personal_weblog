@@ -44,8 +44,7 @@ draft: false
 
 1. **Senior Python Backend Developer (Software Technical Lead)**
 
-   Mehr-e Pars ICT | Dec 2019 – Present (2 yrs)
-
+   - Mehr-e Pars ICT | Dec 2019 – Present (2 yrs)
    - Technical lead of a scrum team with 12 members
    - Board membership and ownership of 8% of the company
    - Built DarsUp E-learning project with microservices architecture base on Open Edx platform (edX is an American massive open online course (MOOC) provider created by Harvard and MIT)
@@ -55,8 +54,7 @@ draft: false
    
 2. **Senior Python Backend Developer**
 
-   Mehr-e Pars ICT | Nov 2016 – Dec 2019 (3 yrs)
-
+   - Mehr-e Pars ICT | Nov 2016 – Dec 2019 (3 yrs)
    - Work on national warehouse management system (base on Bottle python web framework)
    - Cooperate in the Aghigh project (social network of iranian students)
    - Implemented dev automation using Docker, GitLab CI/CD, and other tools, maintaining streamlined processes
@@ -64,21 +62,21 @@ draft: false
    
 3. **Full Stack Web Developer (Django & React.js)**
 
-   Mehr-e Pars ICT | Jun 2015 – Nov 2016 (1 yr 6 mos)
-
+   - Mehr-e Pars ICT | Jun 2015 – Nov 2016 (1 yr 6 mos)
    - Involved in the design and development of the applications using Python, React.js, HTML5, CSS3, Ajax and JSON that delivered and enabled subsequent company success
    - Extensively utilized Django technologies, including forms, templates, and orm for communication with databases in different forms while using interceptors, validators, actions using Django frameworks
    
 4. **Freelance Developer**
 
-   Jul 2013 – Jun 2015 (2 yrs)
+   - Jul 2013 – Jun 2015 (2 yrs)
 
 ---
 
 ## Important projects
 
 1. **DarsUp** (Knowledge-based project) (Dec 2019 – Present)
-- An online educational system based on the Open Edx platform. (edX is an American massive open online course (MOOC) provider created by Harvard and MIT)
+
+   - An online educational system based on the Open Edx platform. (edX is an American massive open online course (MOOC) provider created by Harvard and MIT)
    - DarsUp is a new generation of universities. In today’s busy world you cannot always adjust your schedule to pursue a full time education. Online learning enables you to study for an internationally recognised qualification without making your life hard. Whether you are a graduated person wanting to start your career without sacrificing your education or a busy professional looking for the next career step, online study is the best solution for you
 
 2. **DoreNegar** (Sep 2019 – Present)
@@ -94,7 +92,8 @@ draft: false
    - User-centric video sharing service
 
 5. **Aghigh** (Jun 2015 – Nov 2016)
-- Social Network of Iranian Students
+
+   - Social Network of Iranian Students
 
 ---
 
