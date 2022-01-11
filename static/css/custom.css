@@ -45,6 +45,11 @@ li p {
     display: none;
 }
 
+.img--headshot {
+    height: 200px;
+    width: 200px;
+}
+
 
 @media (min-width: 768px) {
     .layout-reverse .content {
