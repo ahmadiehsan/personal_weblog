@@ -52,7 +52,7 @@ draft: false
    - Introduced DDD programming, architectural patterns, and code quality reviews to reduce tech debt
    - Mentored 10 Junior Python developers, training them to work independently and acquire all adequate skills
    
-2. **Senior Python Backend Developer**
+2. **Python Backend Developer**
 
    - Mehr-e Pars ICT | Nov 2016 – Dec 2019 (3 yrs)
    - Work on national warehouse management system (base on Bottle python web framework)
