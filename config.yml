@@ -24,7 +24,10 @@ languages:
     params:
       author: "احسان احمدی"
       title: "وبلاگ شخصی احسان احمدی"
-      description: "سرپرست فنی سامانه درس‌آپ\n09198083006\nسربازی: پایان خدمت\nنوع: پروژه جایگزین خدمت\nﺲﻧ: 26"
+      description: |
+        Software Technical Lead
+        1374ea@gmail.com
+        Age: 26
   en:
     languageCode: "en-us"
     languageName: "en"
@@ -43,7 +46,10 @@ languages:
     params:
       author: "Ehsan Ahmadi"
       title: "Ehsan Ahmadi Personal Blog"
-      description: "Software Technical Lead\n1374ea@gmail.com\nAge: 26"
+      description: |
+        Software Technical Lead
+        1374ea@gmail.com
+        Age: 26
 
 params:
   authorimage: "/img/ehsan_ahmadi.jpeg"
