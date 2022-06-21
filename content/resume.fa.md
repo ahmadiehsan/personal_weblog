@@ -25,7 +25,7 @@ draft: false
 
 ---
 
-## دیگر مهارت‌ها
+## همه مهارت‌ها
 
 - **زبان‌های برنامه نویسی**: Python - JavaScript
 - **فریمورک‌ها**: Django and DRF - Flask - React js
