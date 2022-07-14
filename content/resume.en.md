@@ -5,7 +5,7 @@ draft: false
 
 ## About
 
-- Over 8 Years of experience in Analysis, Design, Development, Management, and Implementation of various standalone and client-server enterprise application software with Domain-driven design methodology
+- Over 9 Years of experience in Analysis, Design, Development, Management, and Implementation of various standalone and client-server enterprise application software with Domain-driven design methodology
 - Experience in writing REST APIs with Python and Django for large-scale applications with microservices architecture
 - Excellent working experience as technical lead in Agile (SCRUM) team with the high quality delivered on-time projects
 - Expertise in Object-Oriented concepts like SOLID, GRASP, Encapsulation, Overloading, and Overriding
