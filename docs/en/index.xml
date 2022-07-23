@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ehsan Ahmadi</title>
@@ -6,7 +6,11 @@
     <description>Recent content on Ehsan Ahmadi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Oct 2020 14:11:13 +0330</lastBuildDate><atom:link href="https://ahmadiehsan.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Oct 2020 14:11:13 +0330</lastBuildDate>
+    
+	<atom:link href="https://ahmadiehsan.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Hello World</title>
       <link>https://ahmadiehsan.github.io/en/posts/hello_world/</link>
@@ -32,7 +36,7 @@ My first post is here :)</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ahmadiehsan.github.io/en/contact/</guid>
-      <description>I am available 24/7
+      <description>I am available 24&amp;frasl;7
  Phone Number: (+98) 919 808 3006 Email: 1374ea@gmail.com WhatsApp: (+98) 937 500 8935 linkedin: Click Here GitHub: Click Here Telegram: Click Here  </description>
     </item>
     
@@ -42,7 +46,7 @@ My first post is here :)</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ahmadiehsan.github.io/en/resume/</guid>
-      <description>About  Over 9 Years of experience in Analysis, Design, Development, Management, and Implementation of various standalone and client-server enterprise application software with Domain-driven design methodology Experience in writing REST APIs with Python and Django for large-scale applications with microservices architecture Excellent working experience as technical lead in Agile (SCRUM) team with the high quality delivered on-time projects Expertise in Object-Oriented concepts like SOLID, GRASP, Encapsulation, Overloading, and Overriding   Main Skills    name level     Python    Django    Programming Concepts    Web Development Concepts    Software Architecture Concepts    Team Leadership      All Skills  Programming Languages: Python - JavaScript Software Frameworks: Django and DRF - Flask - React js Architectural Patterns: DDD - Monolithic - Microservices - SOA - CQRS - Event Sourcing - FAAS Software Architectures: Clean Architecture - Onion Architecture OOP Concepts: Encapsulation - Abstraction - Inheritance - Polymorphism OOP Principles: SOLID - Favor Composition Over Inheritance - Least Knowledge OOP Design Patterns: Strategy - Observer - Decorator - Factory - Command - Adapter - Facade - Template Method - Composite - State Databases: PostgreSQL - MySQL - MongoDB - Redis - Event Store Database Knowledges: Raw SQL - SQLAlchemy ORM - Django ORM - Sharding Strategies - Alembic Search Engine: ElasticSearch Message-Broker and Related Tools: Rabbitmq - Pika Version Control: Git OS: Debian - Ubuntu OS Knowledges: Memory Management - Process Management SysOps: Kubernetes - Docker - Docker Compose - CI/CD - Nginx - Gunicorn - ELK - Prometheus and Grafana   Experiences (9 yr 6 mos)   Senior Python Backend Developer (Software Technical Lead)</description>
+      <description>About  Over 9 Years of experience in Analysis, Design, Development, Management, and Implementation of various standalone and client-server enterprise application software with Domain-driven design methodology Experience in writing REST APIs with Python and Django for large-scale applications with microservices architecture Excellent working experience as technical lead in Agile (SCRUM) team with the high quality delivered on-time projects Expertise in Object-Oriented concepts like SOLID, GRASP, Encapsulation, Overloading, and Overriding  Experiences (9 yr 6 mos)  Senior Python Developer and Software Architect (Technical Lead)</description>
     </item>
     
   </channel>

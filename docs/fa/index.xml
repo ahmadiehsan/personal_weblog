@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>احسان احمدی</title>
+    <link>https://ahmadiehsan.github.io/fa/</link>
+    <description>Recent content on احسان احمدی</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fa-ir</language>
+    <lastBuildDate>Mon, 02 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ahmadiehsan.github.io/fa/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>درس‌آپ</title>
+      <link>https://ahmadiehsan.github.io/fa/portfolio/darsup/</link>
+      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ahmadiehsan.github.io/fa/portfolio/darsup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>تماس</title>
+      <link>https://ahmadiehsan.github.io/fa/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ahmadiehsan.github.io/fa/contact/</guid>
+      <description> شماره همراه: 09198083006 ایمیل: 1374ea@gmail.com واتساپ: 09375008935 لینکدین: کلیک کنید گیت هاب: کلیک کنید تلگرام: کلیک کنید  </description>
+    </item>
+    
+    <item>
+      <title>رزومه</title>
+      <link>https://ahmadiehsan.github.io/fa/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ahmadiehsan.github.io/fa/resume/</guid>
+      <description>نقاط قوت  بیش از 9 سال تجربه در تجزیه و تحلیل، طراحی، توسعه، مدیریت و پیاده‌سازی نرم‌افزارهای بزرگ کلاینت-سرور ای با متدولوژی Domain-driven design تجربه در نوشتن API های REST در پایتون و جنگو برای برنامه های در مقیاس بزرگ با معماری میکروسرویس تجربه کاری موفق به عنوان سرپرست فنی در تیم Agile (SCRUM) با خروجی کار با کیفیت و سر تایم تخصص در مفاهیم شی گرایی مانند SOLID، GRASP، Encapsulation، Overloading و Overriding  سوابق شغلی (9 سال و 6 ماه)  Senior Python Developer and Software Architect (Technical Lead)</description>
+    </item>
+    
+  </channel>
+</rss>

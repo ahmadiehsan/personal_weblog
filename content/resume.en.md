@@ -12,6 +12,37 @@ draft: false
 
 ---
 
+## Experiences (9 yr 6 mos)
+
+1. **Senior Python Developer and Software Architect (Technical Lead)**
+   - Mehr-e Pars ICT | Dec 2019 – Present (3 yrs)
+   - Technical lead of a scrum team with 12 members
+   - Board membership and ownership of 8% of the company
+   - Built DarsUp E-learning project with microservices architecture based on the Open Edx platform (edX is an American massive open online course (MOOC) provider created by Harvard and MIT)
+   - Designed and developed architectures for all Mehr-e Pars projects, scaling them to beyond large users monthly
+   - Introduced DDD programming, architectural patterns, and code quality reviews to reduce tech debt
+   - Mentored 10 Junior Python developers, training them to work independently and acquire all adequate skills
+   
+2. **Senior Python Developer**
+
+   - Mehr-e Pars ICT | Nov 2016 – Dec 2019 (3 yrs)
+   - Work on national warehouse management system (based on Bottle python web framework)
+   - Cooperate in the Aghigh project (social network of Iranian students)
+   - Implemented dev automation using Docker, GitLab CI/CD, and other tools, maintaining streamlined processes
+   - Cleared many performance bottlenecks in Mehr-e Pars projects for large-scale deployments
+   
+3. **Python Developer**
+
+   - Mehr-e Pars ICT | Jun 2015 – Nov 2016 (1 yr 6 mos)
+   - Involved in the design and development of the applications using Python, React.js, HTML5, CSS3, Ajax, and JSON that delivered and enabled subsequent company success
+   - Extensively utilized Django technologies, including forms, templates, and ORM for communication with databases in different forms while using interceptors, validators, and actions
+   
+4. **Full Stack Web Developer (Django & React.js) (Freelance)**
+
+   - Jul 2013 – Jun 2015 (2 yrs)
+
+---
+
 ## Main Skills
 
 | name       | level               |
@@ -33,7 +64,7 @@ draft: false
 - **Software Architectures**: Clean Architecture - Onion Architecture
 - **OOP Concepts**: Encapsulation - Abstraction - Inheritance - Polymorphism
 - **OOP Principles**: SOLID - Favor Composition Over Inheritance - Least Knowledge
-- **OOP Design Patterns**: Strategy - Observer - Decorator - Factory - Command - Adapter - Facade - Template Method - Composite - State
+- **OOP Design Patterns**: Strategy - Observer - Decorator - Factory - Command - Adapter - Facade - Template Method - Composite - State - Proxy - Builder - Prototype - Bridge - Flyweight - Memento - Visitor
 - **Databases**: PostgreSQL - MySQL - MongoDB - Redis - Event Store
 - **Database Knowledges**: Raw SQL - SQLAlchemy ORM - Django ORM - Sharding Strategies - Alembic
 - **Search Engine**: ElasticSearch
@@ -42,37 +73,6 @@ draft: false
 - **OS**: Debian - Ubuntu
 - **OS Knowledges**: Memory Management - Process Management
 - **SysOps**: Kubernetes - Docker - Docker Compose - CI/CD - Nginx - Gunicorn - ELK - Prometheus and Grafana
-
----
-
-## Experiences (9 yr 6 mos)
-
-1. **Senior Python Backend Developer (Software Technical Lead)**
-   - Mehr-e Pars ICT | Dec 2019 – Present (3 yrs)
-   - Technical lead of a scrum team with 12 members
-   - Board membership and ownership of 8% of the company
-   - Built DarsUp E-learning project with microservices architecture based on the Open Edx platform (edX is an American massive open online course (MOOC) provider created by Harvard and MIT)
-   - Designed and developed architectures for all Mehr-e Pars projects, scaling them to beyond large users monthly
-   - Introduced DDD programming, architectural patterns, and code quality reviews to reduce tech debt
-   - Mentored 10 Junior Python developers, training them to work independently and acquire all adequate skills
-   
-2. **Python Backend Developer**
-
-   - Mehr-e Pars ICT | Nov 2016 – Dec 2019 (3 yrs)
-   - Work on national warehouse management system (based on Bottle python web framework)
-   - Cooperate in the Aghigh project (social network of Iranian students)
-   - Implemented dev automation using Docker, GitLab CI/CD, and other tools, maintaining streamlined processes
-   - Cleared many performance bottlenecks in Mehr-e Pars projects for large-scale deployments
-   
-3. **Full Stack Web Developer (Django & React.js)**
-
-   - Mehr-e Pars ICT | Jun 2015 – Nov 2016 (1 yr 6 mos)
-   - Involved in the design and development of the applications using Python, React.js, HTML5, CSS3, Ajax, and JSON that delivered and enabled subsequent company success
-   - Extensively utilized Django technologies, including forms, templates, and ORM for communication with databases in different forms while using interceptors, validators, and actions
-   
-4. **Freelance Developer**
-
-   - Jul 2013 – Jun 2015 (2 yrs)
 
 ---
 

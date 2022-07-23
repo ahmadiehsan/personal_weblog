@@ -12,6 +12,36 @@ draft: false
 
 ---
 
+## سوابق شغلی (9 سال و 6 ماه)
+
+1. **Senior Python Developer and Software Architect (Technical Lead)**
+
+   - شرکت دانش بنیان مهرپارس - از آذر ۱۳۹۸ تا به امروز (۳ سال)
+   - سرپرست فنی (Technical Lead) تیم اسکرام با 12 عضو
+   - عضویت در هیات مدیره شرکت و مالکیت 8 درصد از شرکت
+   - طراحی و ساخت پروژه آموزش مجازی DarsUp با معماری میکروسرویس بر پایه پلتفرم Open Edx
+   - طراحی و توسعه معماری برای پروژه‌های شرکت مهرپارس و بهینه سازی آنها برای پذیرا بودن از تعداد بسیار زیاد کاربر ماهانه
+   - ایجاد بستر برنامه نویسی DDD، الگوهای معماری مختلف و کد ری ویو برای اولین بار در این شرکت به جهت کاهش بدهی های فنی
+   - راهنمایی و منتورینگ 10 برنامه نویس Junior، همچنین آموزش و آماده سازی آنها برای انجام کارها به شکل مستقل و کسب مهارت های فنی مورد نیاز
+   
+2. **Senior Python Developer**
+   - شرکت دانش بنیان مهرپارس - از آبان ۱۳۹۵ تا آذر ۱۳۹۸ (۳ سال)
+   - کار بر روی سامانه مدیریت انبارهای کشور به سفارش سازمان صنعت معدن تجارت (بر پایه میکرو فریمورک Bottle)
+   - همکاری در پروژه عقیق (شبکه اجتماعی دانش آموزان ایرانی)
+   - پیاده سازی dev automation با استفاده از Docker، GitLab CI/CD، و سایر ابزارها
+   - رفع بسیاری از گلوگاه های عملکردی در پروژه های شرکت مهرپارس برای large-scale deployment
+   
+3. **Python Developer**
+
+   - شرکت دانش بنیان مهرپارس - از خرداد ۱۳۹۴ تا آبان ۱۳۹۵ (۱ سال و ۶ ماه)
+   - طراحی و توسعه سامانه های موفق تحت وب با استفاده از Python، React.js، HTML5، CSS3، Ajax و JSON
+   - استفاده از انواع ابزارهای جنگو، از جمله فرم‌ها، قالب‌ها، اعتبارسنجی کاربران و ORM برای برقراری ارتباط با پایگاه داده در اشکال مختلف
+   
+4. **Full Stack Web Developer (Django & React.js) (Freelance)**
+- از تیر ۱۳۹۲ تا خرداد ۱۳۹۴ (۲ سال)
+
+---
+
 ## مهارت‌های تخصصی
 
 | name       | level               |
@@ -33,7 +63,7 @@ draft: false
 - **معماری‌های نرم افزار**: Clean Architecture - Onion Architecture
 - **مفاهیم آبجکت اورینتد**: Encapsulation - Abstraction - Inheritance - Polymorphism
 - **اصول آبجکت اورینتد**: SOLID - Favor Composition Over Inheritance - Least Knowledge
-- **الگوهای آبجکت اورینتد**: Strategy - Observer - Decorator - Factory - Command - Adapter - Facade - Template Method - Composite - State
+- **الگوهای آبجکت اورینتد**: Strategy - Observer - Decorator - Factory - Command - Adapter - Facade - Template Method - Composite - State - Proxy - Builder - Prototype - Bridge - Flyweight - Memento - Visitor
 - **دیتابیس‌ها**: PostgreSQL - MySQL - MongoDB - Redis - Event Store
 - **دانش‌های دیتابیس**: Raw SQL - SQLAlchemy ORM - Django ORM - Sharding Strategies - Alembic
 - **موتور جستجو**: ElasticSearch
@@ -42,37 +72,6 @@ draft: false
 - **سیستم عامل**: Debian - Ubuntu
 - **دانش‌های سیستم عامل**: Memory Management - Process Management
 - **مدیریت سیستم**: Kubernetes - Docker - Docker Compose - CI/CD - Nginx - Gunicorn - ELK - Prometheus and Grafana
-
----
-
-## سوابق شغلی (9 سال و 6 ماه)
-
-1. **Senior Python Backend Developer - Software Technical Lead**
-
-   - شرکت دانش بنیان مهرپارس - از آذر ۱۳۹۸ تا به امروز (۳ سال)
-   - سرپرست فنی (Technical Lead) تیم اسکرام با 12 عضو
-   - عضویت در هیات مدیره شرکت و مالکیت 8 درصد از شرکت
-   - طراحی و ساخت پروژه آموزش مجازی DarsUp با معماری میکروسرویس بر پایه پلتفرم Open Edx
-   - طراحی و توسعه معماری برای پروژه‌های شرکت مهرپارس و بهینه سازی آنها برای پذیرا بودن از تعداد بسیار زیاد کاربر ماهانه
-   - ایجاد بستر برنامه نویسی DDD، الگوهای معماری مختلف و کد ری ویو برای اولین بار در این شرکت به جهت کاهش بدهی های فنی
-   - راهنمایی و منتورینگ 10 برنامه نویس Junior، همچنین آموزش و آماده سازی آنها برای انجام کارها به شکل مستقل و کسب مهارت های فنی مورد نیاز
-   
-2. **Python Backend Developer**
-   - شرکت دانش بنیان مهرپارس - از آبان ۱۳۹۵ تا آذر ۱۳۹۸ (۳ سال)
-   - کار بر روی سامانه مدیریت انبارهای کشور به سفارش سازمان صنعت معدن تجارت (بر پایه میکرو فریمورک Bottle)
-   - همکاری در پروژه عقیق (شبکه اجتماعی دانش آموزان ایرانی)
-   - پیاده سازی dev automation با استفاده از Docker، GitLab CI/CD، و سایر ابزارها
-   - رفع بسیاری از گلوگاه های عملکردی در پروژه های شرکت مهرپارس برای large-scale deployment
-   
-3. **Full Stack Web Developer - Django & React.js**
-
-   - شرکت دانش بنیان مهرپارس - از خرداد ۱۳۹۴ تا آبان ۱۳۹۵ (۱ سال و ۶ ماه)
-   - طراحی و توسعه سامانه های موفق تحت وب با استفاده از Python، React.js، HTML5، CSS3، Ajax و JSON
-   - استفاده از انواع ابزارهای جنگو، از جمله فرم‌ها، قالب‌ها، اعتبارسنجی کاربران و ORM برای برقراری ارتباط با پایگاه داده در اشکال مختلف
-   
-4. **Freelance Developer**
-
-   - از تیر ۱۳۹۲ تا خرداد ۱۳۹۴ (۲ سال)
 
 ---
 

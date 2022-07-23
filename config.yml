@@ -2,7 +2,7 @@ baseURL: "https://ahmadiehsan.github.io/"
 theme: "hyde-hyde"
 publishDir: "docs"
 
-DefaultContentLanguage: fa
+DefaultContentLanguage: en
 languages:
   fa:
     languageCode: "fa-ir"
@@ -25,11 +25,12 @@ languages:
       author: "احسان احمدی"
       title: "وبلاگ شخصی احسان احمدی"
       description: |
-        Software Technical Lead
+        Senior Python Developer and Software Architect (Technical Lead)
+        ____________________
         همراه: 09198083006
         سربازی: کارت پایان خدمت
         (پروژه جایگزین خدمت)
-        سن: 26
+        سن:26
         
   en:
     languageCode: "en-us"
@@ -50,8 +51,10 @@ languages:
       author: "Ehsan Ahmadi"
       title: "Ehsan Ahmadi Personal Blog"
       description: |
-        Software Technical Lead
+        Senior Python Developer and Software Architect (Technical Lead)
+        ____________________
         1374ea@gmail.com
+        (+98) 919 808 3006
         Age: 26
 
 params:
