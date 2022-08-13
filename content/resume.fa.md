@@ -48,34 +48,36 @@ draft: false
 
 ## مهارت‌های تخصصی
 
-| name       |
+| Name      |
 | ---------- |
-| **Python** |
-| **Django** |
-| **Programming Concepts** |
-| **Web Development Concepts** |
-| **Software Architecture Concepts** |
-| **Team Leadership** |
+| Python |
+| Django |
+| Programming Concepts |
+| Web Development Concepts |
+| Software Architecture Concepts |
+| Team Leadership |
 
 ---
 
 ## همه مهارت‌ها
 
-- **زبان‌های برنامه نویسی**: Python - JavaScript
-- **فریمورک‌ها**: Django and DRF - Flask - React js
-- **الگوهای معماری**: DDD - Monolithic - Microservices - SOA - CQRS - Event Sourcing - FAAS
-- **معماری‌های نرم افزار**: Clean Architecture - Onion Architecture
-- **مفاهیم آبجکت اورینتد**: Encapsulation - Abstraction - Inheritance - Polymorphism
-- **اصول آبجکت اورینتد**: SOLID - Favor Composition Over Inheritance - Least Knowledge
-- **الگوهای آبجکت اورینتد**: Strategy - Observer - Decorator - Factory - Command - Adapter - Facade - Template Method - Composite - State - Proxy - Builder - Prototype - Bridge - Flyweight - Memento - Visitor
-- **دیتابیس‌ها**: PostgreSQL - MySQL - MongoDB - Redis - Event Store
-- **دانش‌های دیتابیس**: Raw SQL - SQLAlchemy ORM - Django ORM - Sharding Strategies - Alembic
-- **موتور جستجو**: ElasticSearch
-- **صف و ابزارهای مرتبط با آن**: Rabbitmq - Pika
-- **کنترل نسخه**: Git
-- **سیستم عامل**: Debian - Ubuntu
-- **دانش‌های سیستم عامل**: Memory Management - Process Management
-- **مدیریت سیستم**: AWS - Kubernetes - Docker - Docker Compose - CI/CD - Nginx - Gunicorn - ELK - Prometheus and Grafana
+| Concept                          | Technologies                                                 |
+| -------------------------------- | ------------------------------------------------------------ |
+| Programming Languages            | Python - JavaScript                                          |
+| Software Frameworks              | Django and DRF - Flask - React js                            |
+| Architectural Patterns           | DDD - Monolithic - Microservices - SOA - CQRS - Event Sourcing - FAAS |
+| Software Architectures           | Clean Architecture - Onion Architecture                      |
+| OOP Concepts                     | Encapsulation - Abstraction - Inheritance - Polymorphism     |
+| OOP Principles                   | SOLID - Favor Composition Over Inheritance - Least Knowledge |
+| OOP Design Patterns              | Strategy - Observer - Decorator - Factory - Command - Adapter - Facade - Template Method - Composite - State - Proxy - Builder - Prototype - Bridge - Flyweight - Memento - Visitor |
+| Databases                        | PostgreSQL - MySQL - MongoDB - Redis - Event Store           |
+| Database Knowledges              | Raw SQL - SQLAlchemy ORM - Django ORM - Sharding Strategies - Alembic |
+| Search Engine                    | ElasticSearch                                                |
+| Message-Broker and Related Tools | Rabbitmq - Pika                                              |
+| Version Control                  | Git                                                          |
+| OS                               | Debian - Ubuntu                                              |
+| OS Knowledges                    | Memory Management - Process Management                       |
+| SysOps                           | AWS - Kubernetes - Docker - Docker Compose - CI/CD - Nginx - Gunicorn - ELK - Prometheus and Grafana |
 
 ---
 
