@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>احسان احمدی</title>
@@ -6,11 +6,7 @@
     <description>Recent content on احسان احمدی</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fa-ir</language>
-    <lastBuildDate>Mon, 02 Apr 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://ahmadiehsan.github.io/fa/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 02 Apr 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://ahmadiehsan.github.io/fa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>درس‌آپ</title>
       <link>https://ahmadiehsan.github.io/fa/portfolio/darsup/</link>
@@ -35,7 +31,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ahmadiehsan.github.io/fa/resume/</guid>
-      <description>نقاط قوت  بیش از 9 سال تجربه در تجزیه و تحلیل، طراحی، توسعه، مدیریت و پیاده‌سازی نرم‌افزارهای بزرگ کلاینت-سرور ای با متدولوژی Domain-driven design تجربه در نوشتن API های REST در پایتون و جنگو برای برنامه های در مقیاس بزرگ با معماری میکروسرویس تجربه کاری موفق به عنوان سرپرست فنی در تیم Agile (SCRUM) با خروجی کار با کیفیت و سر تایم تخصص در مفاهیم شی گرایی مانند SOLID، GRASP، Encapsulation، Overloading و Overriding  سوابق شغلی (9 سال و ۲ ماه)  Software Architect and Senior Python Developer  شرکت STDev - ارمنستان (ریموت) - از آذر ۱۳۹۸ تا به امروز (۶ ماه) برقراری ارتباط کافرمایان به منظور فهم نیازهای بیزینس، ایجاد نقشه راه و تشخیص نیازمندی های نرم افزار پیاده سازی پروژه Squirrel با استاندارد های clean-architecture و معماری microservices و همچنین استقرار آن بر روی سرور های AWS بررسی و بازنگری معماری های فعلی شرکت برای اطمینان از کیفیت آنها و همچنین اعمال اموری برای پیشرفت آنها بررسی و حل مشکلات فنی و همچنین مشارکت فعال در تمامی مراحل توسعه نرم افزارهای شرکت  Technical Lead and Senior Python Developer</description>
+      <description>نقاط قوت  بیش از 9 سال تجربه در تجزیه و تحلیل، طراحی، توسعه، مدیریت و پیاده‌سازی نرم‌افزارهای بزرگ کلاینت-سرور ای با متدولوژی Domain-driven design تجربه در نوشتن API های REST در پایتون و جنگو برای برنامه های در مقیاس بزرگ با معماری میکروسرویس تجربه کاری موفق به عنوان سرپرست فنی در تیم Agile (SCRUM) با خروجی کار با کیفیت و سر تایم تخصص در مفاهیم شی گرایی مانند SOLID، GRASP، Encapsulation، Overloading و Overriding   سوابق شغلی (9 سال و ۲ ماه)   Software Architect and Senior Python Developer</description>
     </item>
     
   </channel>
