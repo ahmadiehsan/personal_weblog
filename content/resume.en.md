@@ -16,10 +16,10 @@ draft: false
 
 1. **Software Architect and Senior Python Developer**
    - BlueSky | USA (Remote) | Feb 2022 – Present (12 mos)
-   - Communicating with stakeholders to understand business initiatives, set roadmaps, and determine software requirements
-   - Developing ShiftPay (fintech) and Squirrel projects with the clean-architecture standards and microservices architecture and deploying them on the AWS servers
-   - Reviewing and revising software designs to ensure technical compliance and propose architectural improvements
-   - Investigating and solving any technical problems and pro-actively participating in all phases of projects
+   - Communicating with stakeholders to understand business initiatives, set roadmaps, and determine software requirements.
+   - Developing ShiftPay (fintech) and Squirrel projects with the clean-architecture standards and microservices architecture and deploying them on the AWS servers.
+   - Reviewing and revising software designs to ensure technical compliance and propose architectural improvements.
+   - Investigating and solving any technical problems and pro-actively participating in all phases of projects.
 2. **Technical Lead and Senior Python Developer**
    - Mehr-e Pars ICT | Iran | Dec 2019 – Feb 2022 (2 yrs 3 mos)
    - Technical lead of a team with 12 senior and mid-level developers.
