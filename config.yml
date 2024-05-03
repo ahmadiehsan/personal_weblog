@@ -30,7 +30,7 @@ languages:
         همراه: 09198083006
         سربازی: کارت پایان خدمت
         (پروژه جایگزین خدمت)
-        سن:27
+        سن:28
         
   en:
     languageCode: "en-us"
@@ -55,7 +55,7 @@ languages:
         ____________________
         1374ea@gmail.com
         (+98) 919 808 3006
-        Age: 27
+        Age: 28
 
 params:
   authorimage: "/img/ehsan_ahmadi.jpeg"

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://ahmadiehsan.github.io/</loc>
     <lastmod>2020-10-17T14:11:13+03:30</lastmod>
@@ -15,19 +14,13 @@
                 hreflang="en"
                 href="https://ahmadiehsan.github.io/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ahmadiehsan.github.io/posts/hello_world/</loc>
     <lastmod>2020-10-17T14:11:13+03:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ahmadiehsan.github.io/posts/</loc>
     <lastmod>2020-10-17T14:11:13+03:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ahmadiehsan.github.io/portfolio/darsup/</loc>
     <lastmod>2018-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -40,9 +33,7 @@
                 hreflang="en"
                 href="https://ahmadiehsan.github.io/portfolio/darsup/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ahmadiehsan.github.io/portfolio/</loc>
     <lastmod>2018-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -55,9 +46,7 @@
                 hreflang="en"
                 href="https://ahmadiehsan.github.io/portfolio/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ahmadiehsan.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -69,9 +58,7 @@
                 hreflang="en"
                 href="https://ahmadiehsan.github.io/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ahmadiehsan.github.io/contact/</loc>
     <xhtml:link
                 rel="alternate"
@@ -83,9 +70,7 @@
                 hreflang="en"
                 href="https://ahmadiehsan.github.io/contact/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ahmadiehsan.github.io/resume/</loc>
     <xhtml:link
                 rel="alternate"
@@ -97,9 +82,7 @@
                 hreflang="en"
                 href="https://ahmadiehsan.github.io/resume/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ahmadiehsan.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -112,5 +95,4 @@
                 href="https://ahmadiehsan.github.io/tags/"
                 />
   </url>
-  
 </urlset>
