@@ -4,7 +4,8 @@
     <title>Categories on Ehsan Ahmadi</title>
     <link>https://ahmadiehsan.github.io/categories/</link>
     <description>Recent content in Categories on Ehsan Ahmadi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://ahmadiehsan.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://ahmadiehsan.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

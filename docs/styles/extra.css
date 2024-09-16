@@ -1,0 +1,80 @@
+*:not(code):not(code *) {
+    font-family: IRANSans, serif !important;
+}
+
+h1 {
+    font-size: 1.65rem;
+}
+
+h2 {
+    font-size: 1.45rem;
+    margin-top: 30px
+}
+
+h3 {
+    font-size: 1.3rem;
+    margin-top: 45px
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid #d3d3d3;
+    margin: 20px 0;
+}
+
+body {
+    color: #333333 !important;
+}
+
+.site__description {
+    color: #dcdcdc;
+}
+
+.site__title {
+    font-size: 1.5rem !important;
+    display: block;
+    margin-bottom: 30px;
+}
+
+.site__description {
+    font-size: 1rem !important;
+}
+
+li p:last-child {
+    margin: 0 0 25px !important;
+}
+
+li p {
+    margin: 0 0 5px !important;
+}
+
+.post__meta br:first-child {
+    display: none;
+}
+
+.img--headshot {
+    height: 200px;
+    width: 200px;
+}
+
+td, th {
+    border-color: #d3d3d3;
+}
+
+@media (min-width: 768px) {
+    .layout-reverse .content {
+        margin-left: 2rem;
+        margin-right: 20rem;
+    }
+}
+
+@media (min-width: 992px) {
+    .layout-reverse .content {
+        margin-left: 4rem;
+        margin-right: 20rem;
+    }
+
+    .content {
+        max-width: 55rem;
+    }
+}

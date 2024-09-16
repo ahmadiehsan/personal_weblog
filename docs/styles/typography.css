@@ -1,0 +1,16 @@
+*:not(code):not(code *) {
+    font-family: IRANSans, serif !important;
+}
+
+h1 {
+    font-size: 1.65rem;
+}
+
+h2 {
+    font-size: 1.35rem;
+    margin-top: 30px
+}
+
+h3 {
+    margin-top: 45px
+}

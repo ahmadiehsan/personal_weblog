@@ -15,7 +15,14 @@ help:
 # PreCommit
 # =====
 pre_commit.init:
+	pip install pre-commit==3.5.0
+	pre-commit install
+	pre-commit install --hook-type pre-push
+	pre-commit install --hook-type commit-msg
 	oco hook set
+
+pre_commit.run_for_all:
+	pre-commit run --all-files
 
 # =========================
 # App (Main Application)
@@ -23,3 +30,5 @@ pre_commit.init:
 app.build:
 	hugo $(ARGS)
 
+app.server:
+	hugo server $(ARGS)

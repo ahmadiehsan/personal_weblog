@@ -1,0 +1,34 @@
+baseURL = "https://ahmadiehsan.github.io/"
+languageCode = "en-us"
+title = "Ehsan Ahmadi"
+theme = "hyde-hyde"
+publishDir = "docs"
+
+[menus]
+  [[menus.main]]
+    name = "My Resume"
+    pageRef = "/resume"
+    weight = 200
+
+  [[menus.main]]
+    name = "Contact Me"
+    pageRef = "/contact"
+    weight = 250
+
+[params]
+  authorimage = "/images/ehsan_ahmadi.jpeg"
+  since = "2019"
+  copyright = "| Ahmadi"
+  postNavigation = false
+  description = """
+  Senior Python Developer and Software Architect
+  ____________________
+  1374ea@gmail.com
+  (+98) 919 808 3006
+  Age: 29
+  """
+
+  [params.social]
+    github = "ahmadiehsan"
+    linkedin = "ahmadi-ehsan"
+    telegram = "ahmadi_ehsan"

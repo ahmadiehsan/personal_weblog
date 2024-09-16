@@ -1,3 +1,3 @@
-# Ehsan Ahmadi personal blog
+# Ehsan Ahmadi's Personal Blog
 
 [ahmadiehsan.github.io](https://ahmadiehsan.github.io)

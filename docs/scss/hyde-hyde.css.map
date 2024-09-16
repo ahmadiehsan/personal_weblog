@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "hyde-hyde.css",
-	"sourceRoot": "/home/ea/projects/ahmadiehsan.github.io",
+	"sourceRoot": "/home/ea/projects/personal_weblog",
 	"sources": [
 		"themes/hyde-hyde/assets/scss/hyde-hyde.scss",
 		"themes/hyde-hyde/assets/scss/hyde-hyde/_variables.scss",

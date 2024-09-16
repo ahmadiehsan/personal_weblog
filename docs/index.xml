@@ -4,46 +4,37 @@
     <title>Ehsan Ahmadi</title>
     <link>https://ahmadiehsan.github.io/</link>
     <description>Recent content on Ehsan Ahmadi</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Oct 2020 14:11:13 +0330</lastBuildDate><atom:link href="https://ahmadiehsan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Oct 2020 14:11:13 +0330</lastBuildDate>
+    <atom:link href="https://ahmadiehsan.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
       <link>https://ahmadiehsan.github.io/posts/hello_world/</link>
       <pubDate>Sat, 17 Oct 2020 14:11:13 +0330</pubDate>
-      
       <guid>https://ahmadiehsan.github.io/posts/hello_world/</guid>
-      <description>Hello!
-My first post is here :)</description>
+      <description>Hello!&#xA;My first post is here :)</description>
     </item>
-    
     <item>
       <title>DarsUp</title>
       <link>https://ahmadiehsan.github.io/portfolio/darsup/</link>
       <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://ahmadiehsan.github.io/portfolio/darsup/</guid>
       <description>DarsUp is a new generation of universities. In today’s busy world you cannot always adjust your schedule to pursue a full time education. Online learning enables you to study for an internationally recognised qualification without making your life hard. Whether you are a graduated person wanting to start your career without sacrificing your education or a busy professional looking for the next career step, online study is the best solution for you.</description>
     </item>
-    
     <item>
       <title>Contact Me</title>
       <link>https://ahmadiehsan.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ahmadiehsan.github.io/contact/</guid>
-      <description>I am available 24/7
-Phone Number: (+98) 919 808 3006 Email: 1374ea@gmail.com linkedin: Click Here GitHub: Click Here Telegram: Click Here </description>
+      <description>I am available 24/7&#xA;Phone Number: (+98) 919 808 3006 Email: 1374ea@gmail.com linkedin: Click Here GitHub: Click Here Telegram: Click Here </description>
     </item>
-    
     <item>
       <title>My Resume</title>
       <link>https://ahmadiehsan.github.io/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ahmadiehsan.github.io/resume/</guid>
       <description>About With over a decade of extensive experience, I have demonstrated proficiency in Analysis, Design, Development, Management, and Implementation of diverse standalone and client-server enterprise software, adhering to Domain-driven design methodology. I possess adeptness in crafting REST APIs utilizing Python and GO, particularly for large-scale services structured with microservices architecture. My tenure includes serving as a technical lead within Agile (SCRUM) teams, ensuring the delivery of high-quality projects within scheduled timelines.</description>
     </item>
-    
   </channel>
 </rss>
