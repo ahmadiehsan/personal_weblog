@@ -28,7 +28,7 @@ pre_commit.run_for_all:
 # App (Main Application)
 # =====
 app.build:
-	hugo $(ARGS)
+	hugo --minify $(ARGS)
 
 app.server:
 	hugo server $(ARGS)

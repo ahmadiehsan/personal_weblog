@@ -1,34 +1,281 @@
+# Full configs: https://github.com/cowboysmall-tools/hugo-devresume-theme/blob/master/exampleSite/config.toml
+
 baseURL = "https://ahmadiehsan.github.io/"
 languageCode = "en-us"
-title = "Ehsan Ahmadi"
-theme = "hyde-hyde"
+title = "Ehsan Ahmadi's Resume"
+theme = "hugo-devresume-theme"
 publishDir = "docs"
 
-[menus]
-  [[menus.main]]
-    name = "My Resume"
-    pageRef = "/resume"
-    weight = 200
-
-  [[menus.main]]
-    name = "Contact Me"
-    pageRef = "/contact"
-    weight = 250
-
 [params]
-  authorimage = "/images/ehsan_ahmadi.jpeg"
-  since = "2019"
-  copyright = "| Ahmadi"
-  postNavigation = false
-  description = """
-  Senior Python Developer and Software Architect
-  ____________________
-  1374ea@gmail.com
-  (+98) 919 808 3006
-  Age: 29
-  """
+author = "Ehsan Ahmadi"
+description = "Ehsan Ahmadi's Resume"
+primaryColor = "#54B689"
+textPrimaryColor = "#333333"
 
-  [params.social]
-    github = "ahmadiehsan"
-    linkedin = "ahmadi-ehsan"
-    telegram = "ahmadi_ehsan"
+[params.profile]
+enable = true
+name = "Ehsan Ahmadi"
+tagline = "Senior Python/Go Developer | Software Architect"
+avatar = "ehsan_ahmadi.jpeg"
+
+[params.contact]
+enable = true
+location = "Remote"
+
+[[params.contact.list]]
+icon = "fas fa-phone-square"
+text = "(+98) 919 808 3006"
+[[params.contact.list]]
+icon = "fas fa-envelope-square"
+url = "mailto:1374ea@gmail.com"
+text = "1374ea@gmail.com"
+[[params.contact.list]]
+icon = "fab fa-github-square"
+url = "https://github.com/ahmadiehsan"
+text = "Link"
+[[params.contact.list]]
+icon = "fab fa-linkedin"
+url = "https://linkedin.com/in/ahmadi-ehsan"
+text = "Link"
+[[params.contact.list]]
+icon = "fab fa-telegram"
+url = "https://t.me/ahmadi_ehsan"
+text = "Link"
+
+[params.skills]
+enable = true
+
+[[params.skills.list]]
+title = "Hard Skills"
+[[params.skills.list.items]]
+details = """
+- Python (Programming & Scripting)
+- GO
+- Django - FastAPI
+- Gin - Fiber
+- Programming Concepts
+- Web Development Principles
+- Software Architecture Principles
+---
+For additional details, refer to the **"All Skills"** section on the left
+"""
+
+[[params.skills.list]]
+title = "Soft Skills"
+[[params.skills.list.items]]
+details = """
+- Effective Communication
+- Team Player
+- Strong Problem Solver
+- Good Time Management
+"""
+
+[params.summary]
+enable = true
+text = """
+- **Over 11 years of experience** in the analysis, design, development, and implementation of software using **Domain-driven design**.
+- Proficient in building **large-scale microservices** with **Python** and **Go**, focusing on REST/gRPC APIs.
+- Serving as a **technical lead** within Agile (SCRUM) teams, ensuring timely project delivery.
+- Expertise in Object-Oriented design, SOLID principles, GRASP, and GoF design patterns.
+- Passionate about **AI** concepts, with a growing interest in **Natural Language Processing (NLP)**.
+"""
+
+[params.experience]
+enable = true
+
+[[params.experience.list]]
+title = "Software Architect and Senior Python Developer"
+dates = "Feb 2022 – Present (2 yrs 7mos)"
+company = "WestLink | USA (Remote)"
+details = ""
+[[params.experience.list.items]]
+details = "Communicated with stakeholders to define business goals, roadmaps, and software requirements."
+[[params.experience.list.items]]
+details = "Led development of fintech projects (ShiftPay & Squirrel), using clean architecture and microservices, deployed on AWS."
+[[params.experience.list.items]]
+details = "Reviewed software designs for compliance and proposed architectural improvements."
+[[params.experience.list.items]]
+details = "Solved technical challenges and participated in all project phases."
+
+[[params.experience.list]]
+title = "Technical Lead and Senior Python Developer"
+dates = "Dec 2019 – Feb 2022 (2 yrs 3 mos)"
+company = "Mehr-e Pars ICT"
+details = ""
+[[params.experience.list.items]]
+details = "Led a team of 12 senior and mid-level developers as the technical lead."
+[[params.experience.list.items]]
+details = "Designed and developed DarsUp, an e-learning platform using microservices on the Open edX platform."
+[[params.experience.list.items]]
+details = "Architected scalable solutions for all projects, handling large user volumes."
+[[params.experience.list.items]]
+details = "Introduced Domain-Driven Design (DDD) principles and conducted code quality reviews to reduce technical debt."
+[[params.experience.list.items]]
+details = "Mentored 9 junior Python developers, promoting growth and independence."
+[[params.experience.list.items]]
+details = "Held a board membership and an 8% ownership stake in the company."
+
+[[params.experience.list]]
+title = "Senior Python Developer"
+dates = "Nov 2016 – Dec 2019 (3 yrs 2 mos)"
+company = "Mehr-e Pars ICT"
+details = ""
+[[params.experience.list.items]]
+details = "Led the development of a national warehouse management system."
+[[params.experience.list.items]]
+details = "Contributed to Aghigh, a social network for national students."
+[[params.experience.list.items]]
+details = "Implemented development automation using Docker, GitLab CI/CD, and other tools for efficient workflows."
+[[params.experience.list.items]]
+details = "Identified and resolved performance bottlenecks in company projects for large-scale optimization."
+
+[[params.experience.list]]
+title = "Python Developer"
+dates = "Jun 2014 – Nov 2016 (2 yr 6 mos)"
+company = "Mehr-e Pars ICT"
+details = ""
+[[params.experience.list.items]]
+details = "Contributed to the design and development of projects using Python, React.js, HTML5, CSS3, Ajax, and JSON, enhancing overall success."
+[[params.experience.list.items]]
+details = "Showcased expertise in Django, using forms, templates, and ORM for effective database communication, along with interceptors, validators, and actions to improve functionality and performance."
+
+[[params.experience.list]]
+title = "Full Stack Web Developer (Django & React.js)"
+dates = "Jul 2013 – Jun 2014 (1 yr)"
+company = "Freelance"
+details = ""
+
+[params.information]
+enable = true
+
+[[params.information.list]]
+title = "Programming"
+[[params.information.list.items]]
+details = """
+- **Languages:** Python - GO - JavaScript
+- **Frameworks:** Django and DRF - FastAPI - Flask - Gin - Fiber - React js
+"""
+
+[[params.information.list]]
+title = "Architecture"
+[[params.information.list.items]]
+details = """
+- **Patterns:** DDD - Monolithic - Microservices - SOA - CQRS - Event Sourcing - FAAS - Outbox - Saga - 2PC
+- **Software Architectures:** Clean Architecture - Hexagonal Architecture
+"""
+
+[[params.information.list]]
+title = "OOP"
+[[params.information.list.items]]
+details = """
+- **Principles:** SOLID - GRASP - GoF design patterns - Favor composition over inheritance - Least Knowledge
+- **Design Patterns:** Strategy - Observer - Decorator - Factory - Command - Adapter - Facade - Template Method - Composite - State - Proxy - Builder - Prototype - Bridge - Flyweight - Memento - Visitor
+"""
+
+[[params.information.list]]
+title = "Database"
+[[params.information.list.items]]
+details = """
+- **DBs:** PostgreSQL - MySQL - MongoDB - Redis - Event Store
+- **DB Knowledges:** Raw SQL - SQLAlchemy ORM - Django ORM - GORM - Sharding Strategies - Alembic
+- **Search Engine:** ElasticSearch
+"""
+
+[[params.information.list]]
+title = "Message-Broker"
+[[params.information.list.items]]
+details = """
+- **Message-Brokers:** Rabbitmq - Kafka
+- **Related Tools:** Pika
+"""
+
+[[params.information.list]]
+title = "Operating System"
+[[params.information.list.items]]
+details = """
+- **OS:** Debian - Ubuntu
+- **OS Knowledges:** Memory Management - Process Management - Shell/Bash script
+"""
+
+[[params.information.list]]
+title = "SysOps"
+[[params.information.list.items]]
+details = """
+- **Cloud Providers:** AWS
+- **Horizontal Scaling:** Kubernetes - Docker - Docker Compose
+- **Automation:** CI/CD - GitLab-CI
+- **Deployment:** Nginx - Gunicorn
+- **Monitoring:** ELK - Prometheus and Grafana
+"""
+
+[params.projects]
+enable = true
+
+[[params.projects.list]]
+title = "ShiftPay"
+meta = "WestLink | Dec 2022 – Present"
+tagline = """
+- A fintech initiative serving the US market.
+- Facilitates seamless banking interactions and empowers businesses and employees to manage physical and virtual cards with customizable spending limits.
+"""
+
+[[params.projects.list]]
+title = "Squirrel (Compensation)"
+meta = "WestLink | Feb 2022 – Dec 2022"
+tagline = """
+- A global employment platform.
+- Engages numerous B2C and B2B clients through tailored APIs.
+- Hosted on AWS servers with Docker containers and robust CI pipelines.
+"""
+
+[[params.projects.list]]
+title = "DarsUp"
+meta = "Mehr-e Pars ICT | Dec 2019 – Feb 2022"
+tagline = """
+- A knowledge-based project.
+- An e-learning system based on the Open Edx platform (edX is an American massive open online course (MOOC) provider created by Harvard and MIT).
+"""
+
+[[params.projects.list]]
+title = "NWMS"
+meta = "Mehr-e Pars ICT | Jan 2018 – Dec 2019"
+tagline = """
+- Developed for the Ministry of Industry, Mining, and Trade.
+"""
+
+[[params.projects.list]]
+title = "Heyat TV"
+meta = "Mehr-e Pars ICT | Nov 2016 – Jan 2018"
+tagline = """
+- A user-centric video-sharing platform.
+"""
+
+[[params.projects.list]]
+title = "Aghigh"
+meta = "Mehr-e Pars ICT | Jun 2015 – Nov 2016"
+tagline = """
+- A social networking platform for national students.
+"""
+
+[params.social]
+enable = true
+
+[[params.social.list]]
+icon = "fab fa-github-square"
+url = "https://github.com/ahmadiehsan"
+[[params.social.list]]
+icon = "fab fa-linkedin"
+url = "https://linkedin.com/in/ahmadi-ehsan"
+[[params.social.list]]
+icon = "fab fa-telegram"
+url = "https://t.me/ahmadi_ehsan"
+
+[params.languages]
+enable = true
+
+[[params.languages.list]]
+name = "English"
+level = "Professional"
+[[params.languages.list]]
+name = "Persian"
+level = "Native"

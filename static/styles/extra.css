@@ -1,80 +1,124 @@
-*:not(code):not(code *) {
-    font-family: IRANSans, serif !important;
+/* =========================
+ Header
+ ===== */
+.resume-name {
+    font-size: 2.3rem;
 }
 
-h1 {
-    font-size: 1.65rem;
+.resume-contact li svg {
+    margin-right: 5px !important;
 }
 
-h2 {
-    font-size: 1.45rem;
-    margin-top: 30px
+.resume-contact li:nth-child(n+3) {
+    display: inline-block;
+    padding: 0 !important;
+    margin: 0 20px 0 0 !important;
 }
 
-h3 {
-    font-size: 1.3rem;
-    margin-top: 45px
+.resume-contact li:nth-child(n+3) svg {
+    margin-right: 2px !important;
 }
 
-hr {
-    border: 0;
-    border-top: 1px solid #d3d3d3;
-    margin: 20px 0;
-}
-
-body {
-    color: #333333 !important;
-}
-
-.site__description {
-    color: #dcdcdc;
-}
-
-.site__title {
-    font-size: 1.5rem !important;
-    display: block;
-    margin-bottom: 30px;
-}
-
-.site__description {
-    font-size: 1rem !important;
-}
-
-li p:last-child {
-    margin: 0 0 25px !important;
-}
-
-li p {
-    margin: 0 0 5px !important;
-}
-
-.post__meta br:first-child {
+.resume-contact li:last-child {
     display: none;
 }
 
-.img--headshot {
-    height: 200px;
-    width: 200px;
+/* =========================
+ Share Between Sections
+ ===== */
+.resume-section-heading {
+    font-size: 1.3rem;
+    background-color: #ebfff6;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
-td, th {
-    border-color: #d3d3d3;
+/* =========================
+ Intro
+ ===== */
+.resume-intro {
+    font-size: 1rem;
+    color: #333333;
 }
 
+.resume-intro li {
+    padding-bottom: 5px;
+}
+
+.resume-intro ul,
+.resume-intro p {
+    padding: 0;
+    margin: 0;
+}
+
+.resume-profile-image {
+    max-width: 140px;
+}
+
+/* =========================
+ Main
+ ===== */
+.resume-main .item-title {
+    font-size: 1.1rem;
+}
+
+.resume-main .item-content {
+    font-size: 1rem;
+    color: #444444;
+}
+
+.resume-main .item-content li {
+    padding-bottom: 5px;
+}
+
+.resume-main .item-meta {
+    font-size: .85rem;
+    color: #4e9a77 !important;
+}
+
+/* =========================
+ Sidebar
+ ===== */
+.resume-aside .item {
+    font-size: 0.9rem;
+    color: #444444;
+}
+
+.resume-aside .item > ul {
+    padding-left: 25px;
+}
+
+.resume-aside .item > ul ul {
+    padding-left: 0;
+}
+
+/* =========================
+ Responsive
+ ===== */
+/* SM */
+@media (min-width: 576px) {
+    .container {
+        max-width: 540px;
+    }
+}
+
+/* MD */
 @media (min-width: 768px) {
-    .layout-reverse .content {
-        margin-left: 2rem;
-        margin-right: 20rem;
+    .container {
+        max-width: 720px;
     }
 }
 
+/* LG */
 @media (min-width: 992px) {
-    .layout-reverse .content {
-        margin-left: 4rem;
-        margin-right: 20rem;
+    .container {
+        max-width: 960px;
     }
+}
 
-    .content {
-        max-width: 55rem;
+/* XL */
+@media (min-width: 1200px) {
+    .container {
+        max-width: 1350px;
     }
 }
