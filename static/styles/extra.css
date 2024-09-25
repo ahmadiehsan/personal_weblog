@@ -156,7 +156,7 @@
     }
 
     .resume-section-heading {
-        font-size: 1rem;
+        font-size: .9rem;
     }
 
     .resume-intro {
@@ -164,15 +164,15 @@
     }
 
     .resume-main .item-title {
-        font-size: 1rem;
+        font-size: 1.1rem;
     }
 
     .resume-main .item-content {
-        font-size: .9rem;
+        font-size: .8rem;
     }
 
     .resume-main .item-meta {
-        font-size: .65rem;
+        font-size: .7rem;
     }
 
     .resume-aside .item-title {
@@ -180,7 +180,7 @@
     }
 
     .resume-aside .item {
-        font-size: .9rem;
+        font-size: .8rem;
     }
 
     .resume-lang-list {
