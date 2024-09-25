@@ -2,7 +2,11 @@
  Header
  ===== */
 .resume-name {
-    font-size: 2.3rem;
+    font-size: 2.5rem;
+}
+
+.resume-contact {
+    font-size: .85rem;
 }
 
 .resume-contact li svg {
@@ -27,7 +31,7 @@
  Share Between Sections
  ===== */
 .resume-section-heading {
-    font-size: 1.3rem;
+    font-size: 1.35rem;
     background-color: #ebfff6;
     padding-top: 5px;
     padding-bottom: 5px;
@@ -37,33 +41,27 @@
  Intro
  ===== */
 .resume-intro {
-    font-size: 1rem;
-    color: #333333;
+    font-size: 1.1rem;
+    color: #444444;
 }
 
 .resume-intro li {
     padding-bottom: 5px;
 }
 
-.resume-intro ul,
-.resume-intro p {
-    padding: 0;
-    margin: 0;
-}
-
 .resume-profile-image {
-    max-width: 140px;
+    max-width: 160px;
 }
 
 /* =========================
  Main
  ===== */
 .resume-main .item-title {
-    font-size: 1.1rem;
+    font-size: 1.125rem;
 }
 
 .resume-main .item-content {
-    font-size: 1rem;
+    font-size: 1.05rem;
     color: #444444;
 }
 
@@ -79,8 +77,12 @@
 /* =========================
  Sidebar
  ===== */
+.resume-aside .item-title {
+    font-size: 1.125rem;
+}
+
 .resume-aside .item {
-    font-size: 0.9rem;
+    font-size: .9rem;
     color: #444444;
 }
 
@@ -89,36 +91,150 @@
 }
 
 .resume-aside .item > ul ul {
-    padding-left: 0;
+    padding-left: 0 !important;
+}
+
+.resume-aside .item > ul ul > li {
+    padding-bottom: 5px;
+}
+
+.resume-lang-list {
+    font-size: 1rem;
 }
 
 /* =========================
  Responsive
  ===== */
+/* XS & SM */
+@media (max-width: 767px) {
+    .resume-wrapper {
+        padding: 1rem 0 1.5rem !important;
+    }
+
+    .resume-contact li {
+        display: inline-block;
+        margin: 0 10px;
+    }
+
+    .resume-contact li:nth-child(n+3) {
+        display: none;
+    }
+
+    .resume-header {
+        text-align: center;
+    }
+
+    .resume-profile-image {
+        max-width: 130px;
+    }
+}
+
+/* XS & SM & MD */
+@media (max-width: 991px) {
+    .main-wrapper > .container {
+        padding: 0 15px !important;
+    }
+
+    .resume-intro ul,
+    .resume-intro p,
+    .resume-main ul:not(.list-unstyled) {
+        padding: 0 0 0 20px;
+        margin: 0;
+    }
+
+    .resume-main {
+        padding-right: 15px !important;
+    }
+
+    .resume-name {
+        font-size: 2rem;
+        letter-spacing: 0.2rem;
+    }
+
+    .resume-contact {
+        font-size: .75rem;
+    }
+
+    .resume-section-heading {
+        font-size: 1rem;
+    }
+
+    .resume-intro {
+        font-size: .9rem;
+    }
+
+    .resume-main .item-title {
+        font-size: 1rem;
+    }
+
+    .resume-main .item-content {
+        font-size: .9rem;
+    }
+
+    .resume-main .item-meta {
+        font-size: .65rem;
+    }
+
+    .resume-aside .item-title {
+        font-size: 1rem;
+    }
+
+    .resume-aside .item {
+        font-size: .9rem;
+    }
+
+    .resume-lang-list {
+        font-size: .8rem;
+    }
+}
+
+/* XS */
+@media (max-width: 575px) {
+    .resume-wrapper {
+        margin: 0 !important;
+        box-shadow: unset !important;
+        border: 0 !important;
+    }
+}
+
 /* SM */
 @media (min-width: 576px) {
-    .container {
-        max-width: 540px;
+    .resume-wrapper {
+        padding: 1rem 1.5rem 1.5rem !important;
     }
 }
 
 /* MD */
 @media (min-width: 768px) {
-    .container {
-        max-width: 720px;
+    .resume-wrapper {
+        padding: 1rem 1.5rem 1.5rem !important;
+    }
+
+    .resume-intro ul,
+    .resume-intro p {
+        padding: 0;
+        margin: 0;
     }
 }
 
 /* LG */
 @media (min-width: 992px) {
-    .container {
-        max-width: 960px;
+    .resume-wrapper {
+        padding: 1.5rem 2rem !important;
+    }
+
+    .resume-main {
+        padding-right: 1.5rem !important;
     }
 }
 
 /* XL */
 @media (min-width: 1200px) {
-    .container {
+    .main-wrapper > .container {
         max-width: 1350px;
+    }
+
+    .resume-wrapper {
+        padding: 2rem 2.5rem !important;
     }
 }

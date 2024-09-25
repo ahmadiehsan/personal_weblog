@@ -28,7 +28,8 @@ pre_commit.run_for_all:
 # App (Main Application)
 # =====
 app.build:
-	hugo --minify $(ARGS)
+	find docs -mindepth 1 ! -name "CNAME" -delete
+	hugo --minify
 
 app.server:
-	hugo server $(ARGS)
+	hugo server

@@ -49,13 +49,13 @@ enable = true
 title = "Hard Skills"
 [[params.skills.list.items]]
 details = """
-- Python (Programming & Scripting)
+- Python
 - GO
 - Django - FastAPI
 - Gin - Fiber
 - Programming Concepts
-- Web Development Principles
-- Software Architecture Principles
+- Web Principles
+- Architecture Principles
 ---
 For additional details, refer to the **"All Skills"** section on the left
 """
@@ -73,7 +73,7 @@ details = """
 [params.summary]
 enable = true
 text = """
-- **Over 11 years of experience** in the analysis, design, development, and implementation of software using **Domain-driven design**.
+- **Over 11 years of experience** in the analysis, design, and implementation of software using **Domain-driven design**.
 - Proficient in building **large-scale microservices** with **Python** and **Go**, focusing on REST/gRPC APIs.
 - Serving as a **technical lead** within Agile (SCRUM) teams, ensuring timely project delivery.
 - Expertise in Object-Oriented design, SOLID principles, GRASP, and GoF design patterns.
@@ -91,7 +91,7 @@ details = ""
 [[params.experience.list.items]]
 details = "Communicated with stakeholders to define business goals, roadmaps, and software requirements."
 [[params.experience.list.items]]
-details = "Led development of fintech projects (ShiftPay & Squirrel), using clean architecture and microservices, deployed on AWS."
+details = "Led development of fintech and job board projects using clean architecture and microservices, deployed on AWS."
 [[params.experience.list.items]]
 details = "Reviewed software designs for compliance and proposed architectural improvements."
 [[params.experience.list.items]]
