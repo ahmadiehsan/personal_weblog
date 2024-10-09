@@ -4,7 +4,6 @@ baseURL = "https://ahmadiehsan.github.io/"
 languageCode = "en-us"
 title = "Ehsan Ahmadi's Resume"
 theme = "hugo-devresume-theme"
-publishDir = "docs"
 
 [params]
 author = "Ehsan Ahmadi"
