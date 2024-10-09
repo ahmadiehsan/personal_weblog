@@ -29,7 +29,7 @@ icon = "fas fa-envelope-square"
 url = "mailto:1374ea@gmail.com"
 text = "1374ea@gmail.com"
 [[params.contact.list]]
-icon = "fab fa-github-square"
+icon = "fab fa-github"
 url = "https://github.com/ahmadiehsan"
 text = "Link"
 [[params.contact.list]]
@@ -260,7 +260,7 @@ tagline = """
 enable = true
 
 [[params.social.list]]
-icon = "fab fa-github-square"
+icon = "fab fa-github"
 url = "https://github.com/ahmadiehsan"
 [[params.social.list]]
 icon = "fab fa-linkedin"
