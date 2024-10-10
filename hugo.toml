@@ -1,6 +1,6 @@
 # Full configs: https://github.com/cowboysmall-tools/hugo-devresume-theme/blob/master/exampleSite/config.toml
 
-baseURL = "https://ahmadiehsan.github.io/"
+baseURL = "https://ahmadiehsan.ir"
 languageCode = "en-us"
 title = "Ehsan Ahmadi's Resume"
 theme = "hugo-devresume-theme"
