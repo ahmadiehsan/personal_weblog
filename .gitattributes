@@ -1,0 +1,5 @@
+*.md linguist-documentation=false
+*.md linguist-detectable
+
+*.html linguist-detectable=false
+*.css linguist-detectable=false
