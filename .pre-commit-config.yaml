@@ -1,4 +1,4 @@
-exclude: ^(docs|themes)
+exclude: ^(themes)
 default_stages: [ commit ]
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
