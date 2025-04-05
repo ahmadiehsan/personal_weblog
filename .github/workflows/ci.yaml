@@ -51,7 +51,7 @@ jobs:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
           TZ: America/Los_Angeles
-        run: make app.build
+        run: make manage.build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
