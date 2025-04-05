@@ -1,21 +1,13 @@
 # =========================
 # Init
 # =====
-ARGS := $(wordlist 2, $(words $(MAKECMDGOALS)), $(MAKECMDGOALS))
-$(eval $(ARGS):;@:)  # Change the target-level arguments into do-nothing targets
-
-# =========================
-# Help (Put it first so that "make" without argument is like "make help")
-# =====
-help:
-	@echo "Available targets:"
-	@grep -E '^[a-zA-Z0-9][a-zA-Z0-9._-]*:' Makefile | sort | awk -F: '{print "  "$$1}'
+.DEFAULT_GOAL := help
 
 # =========================
 # PreCommit
 # =====
 pre_commit.init:
-	pip install pre-commit==3.5.0
+	pip install pre-commit==4.2.0
 	pre-commit install
 	pre-commit install --hook-type pre-push
 	pre-commit install --hook-type commit-msg
@@ -25,10 +17,17 @@ pre_commit.run_for_all:
 	pre-commit run --all-files
 
 # =========================
-# App (Main Application)
+# Manage
 # =====
-app.build:
+manage.build:
 	hugo --gc --minify
 
-app.server:
+manage.server:
 	hugo server
+
+# =========================
+# Help
+# =====
+help:
+	@echo "Available targets:"
+	@grep -E '^[a-zA-Z0-9][a-zA-Z0-9._-]*:' Makefile | sort | awk -F: '{print "  "$$1}'
