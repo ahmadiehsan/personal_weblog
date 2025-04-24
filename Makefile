@@ -2,19 +2,19 @@
 # Init
 # =====
 .DEFAULT_GOAL := help
+.SILENT:
 
 # =========================
-# PreCommit
+# Git
 # =====
-pre_commit.init:
-	pip install pre-commit==4.2.0
-	pre-commit install
-	pre-commit install --hook-type pre-push
-	pre-commit install --hook-type commit-msg
+git.init_hooks:
+	uvx pre-commit install
+	uvx pre-commit install --hook-type pre-push
+	uvx pre-commit install --hook-type commit-msg
 	oco hook set
 
-pre_commit.run_for_all:
-	pre-commit run --all-files
+git.run_hooks_for_all:
+	uvx pre-commit run --all-files
 
 # =========================
 # Manage
@@ -29,5 +29,5 @@ manage.server:
 # Help
 # =====
 help:
-	@echo "Available targets:"
-	@grep -E '^[a-zA-Z0-9][a-zA-Z0-9._-]*:' Makefile | sort | awk -F: '{print "  "$$1}'
+	echo "available targets:"
+	grep -E '^[a-zA-Z0-9][a-zA-Z0-9._-]*:' Makefile | sort | awk -F: '{print "  "$$1}'

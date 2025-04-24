@@ -23,3 +23,8 @@ repos:
     hooks:
       - id: checkmake
         args: [--config, "./.checkmake.ini"]
+
+  - repo: https://github.com/ahmadiehsan/fixmate
+    rev: 1.1.0
+    hooks:
+      - id: dir_checker

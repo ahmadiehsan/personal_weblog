@@ -22,4 +22,3 @@ jobs:
         run: |
           git remote add mirror ${{ secrets.MIRROR_URL }}
           git push --mirror mirror
-
