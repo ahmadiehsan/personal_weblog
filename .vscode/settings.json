@@ -2,6 +2,12 @@
     "files.exclude": {
         "**/.idea": true,
     },
+    "explorer.fileNesting.enabled": true,
+    "explorer.fileNesting.patterns": {
+        ".gitignore": ".gitattributes, .gitmodules",
+        "hugo.toml": ".hugo_build.lock",
+        ".pre-commit-config.yaml": ".checkmake.ini, .env",
+    },
     "cSpell.words": [
         "Aghigh",
         "Ahmadi",
