@@ -55,6 +55,7 @@ details = """
 - Programming Concepts
 - Web Principles
 - Architecture Principles
+- AI - NN - NLP - Transformers
 ---
 For additional details, refer to the **"All Skills"** section on the left
 """
@@ -199,6 +200,16 @@ details = """
 - **Automation:** CI/CD - GitLab-CI
 - **Deployment:** Nginx - Gunicorn
 - **Monitoring:** ELK - Prometheus and Grafana
+"""
+
+[[params.information.list]]
+title = "AI"
+[[params.information.list.items]]
+details = """
+- **Domains:** Machine/Deep Learning - Natural Language Processing (NLP) - Generative AI
+- **Frameworks:** PyTorch - Hugging Face Transformers - Scikit-learn - LangChain
+- **Techniques:** Supervised/Unsupervised Learning - Fine-tuning Transformers
+- **Tools:** Pandas - NumPy - Matplotlib
 """
 
 [params.projects]
