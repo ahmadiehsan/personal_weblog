@@ -7,7 +7,7 @@
     "explorer.fileNesting.patterns": {
         ".gitignore": ".gitattributes, .gitmodules",
         "hugo.toml": ".hugo_build.lock",
-        ".pre-commit-config.yaml": ".checkmake.ini, .env",
+        ".pre-commit-config.yaml": ".env",
     },
     "cSpell.words": [
         "Aghigh",
